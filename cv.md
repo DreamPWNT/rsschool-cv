@@ -41,8 +41,8 @@ Besides work, I am interested in cooking, music, mathematics, and computer games
    - _SOAP, SimpleXML_
    - _Composer_
    - _Smarty_
-   - _Libraries: php-amqplib, Guzzle, League Container, Monolog_
-1. **Other Languages** _Basic_
+   - _Libraries: php-amqplib, Guzzle HTTP, League Container, Monolog_
+1. **Other Languages**
    - _Python Basic_
    - _C Basic_
    - _C++ Basic_
